@@ -1,0 +1,10 @@
+baseURL = 'http://henriquealves04.github.io/'
+languageCode = 'en-us'
+title = 'archive'
+theme="hugo-theme-red-rose"
+
+PygmentsCodeFences = true
+PygmentsStyle = "solarized-dark256"
+pluralizelisttitles = "false"
+paginate  = 18
+disableHugoGeneratorInject = true
