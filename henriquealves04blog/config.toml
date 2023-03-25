@@ -1,6 +1,6 @@
 baseURL = 'http://henriquealves04.github.io/'
 languageCode = 'en-us'
-title = 'archive'
+title = 'archived'
 theme="hugo-theme-red-rose"
 
 PygmentsCodeFences = true
